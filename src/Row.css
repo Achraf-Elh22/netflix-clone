@@ -9,6 +9,10 @@
   padding: 20px;
 }
 
+.row__title {
+  color: #fff;
+}
+
 .row__poster {
   width: 100%;
   object-fit: contain;
